@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 dict.youdao.com##A[style="font-size:12px;text-decoration:none;position:absolute;top:21px;right:25px;_right:15px;height:22px;line-height:22px;"]
 sogou.com##.indx-bn.js_banner
 taobao.com##.module
