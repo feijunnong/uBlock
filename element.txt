@@ -616,3 +616,6 @@ tu.duowan.com###site-nav
 haosou.com###haosou-banner-left
 haosou.com###so_top
 tu.duowan.com##.popularize__banner
+dongao.com##A[onclick="openchat()"]
+dongao.com##.msg.msgstrong
+dongao.com##IMG[src="/images/zhongji/Members_zhukuai.jpg"]
